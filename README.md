@@ -57,6 +57,12 @@ Works as a framework which connects Excel with Snowflake.
 <img width="650" height="329" alt="image" src="https://github.com/user-attachments/assets/20dafeb3-61d3-48ec-9be8-1b27d5823dbb" />
 
 
+### Security Measures:
+
+<img width="899" height="443" alt="image" src="https://github.com/user-attachments/assets/3661de4b-b9af-4d0a-9665-dfddd4acd1df" />
+
+
+
 
 
 
