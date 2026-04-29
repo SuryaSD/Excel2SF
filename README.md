@@ -1,6 +1,8 @@
 # Excel2SF (Excel to Snowflake)
 
-Works as a framework which connects excel with snowflake. 
+Works as a framework which connects Excel with Snowflake. 
+
+<img width="662" height="119" alt="image" src="https://github.com/user-attachments/assets/98aecf48-b6c7-4ac7-9ba9-6be26ba401b3" />
 
  ###	 •  Multi-Sheet Submission
 	  Users can submit multiple Excel sheets simultaneously in a single run.
@@ -24,3 +26,16 @@ Works as a framework which connects excel with snowflake.
  
 ###	•  Significant Performance Improvement
       Reduced processing time from 30 minutes to just 1 minute, dramatically improving      operational speed and productivity.
+
+
+
+<img width="659" height="376" alt="image" src="https://github.com/user-attachments/assets/b1124386-1d25-47c5-a13f-922cf95d1284" />
+
+
+	  
+
+
+
+
+
+
